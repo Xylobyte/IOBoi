@@ -2,7 +2,7 @@
 Welcome to IOBoi!
 This is a game-playing program that reads custom made cartridges.
 
->>>>NOTE: The project is the "Game Console" not the games themselves.<<<<
+>NOTE: The project is the "Game Console" not the games themselves.
 
 When using the program, you have the option to include the cartridge name in the execution (./ioboi [cartridge]) or after you run IOBoi it will prompt for it.
 When typing in the cartridge names, make sure to include the ".txt" at the end ("Example.txt") otherwise the program can't recognise it.
@@ -10,7 +10,7 @@ When typing in the cartridge names, make sure to include the ".txt" at the end (
 You also have the option create your own game if you wish. To do so, you can use the template included in the program files. The template will show you how to layout your game
 so that IOBoi can recognize it.
 
->>>>NOTE: The program has many global variables. The reason is because they are constantly being updated and read in. This is the only way to ensure the program works.<<<<
+>NOTE: The program has many global variables. The reason is because they are constantly being updated and read in. This is the only way to ensure the program works.
 
 There are many administrative commands that you are able to use to test the programs abilities.
 To execute and admin command, you must use this format: "*examplecommand" when it prompts for a command.
