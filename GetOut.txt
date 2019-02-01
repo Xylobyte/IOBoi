@@ -1,0 +1,305 @@
+1
+30
+
+Start:1
+2
+5
+0
+0
+You are in a hallway. There are paths to the north and south.
+1
+
+
+	 	   ---| |---
+	 	   ---|*|---
+		   ---| |---
+
+
+:2
+3
+1
+0
+0
+You are in a hallway. There are paths to the north and south.
+1
+
+
+	 	   ___   ___
+	 	   ---|*|---
+		   ---| |---
+
+
+:3
+0
+0
+4
+20
+The door is shut behind you, you cannot go back. It seems you may be trapped. Paths are to the east and west.
+1
+
+
+	 	   _________
+	 	   ___ * ___
+		   ---|_|---
+
+
+Death by pit:20
+0
+0
+0
+0
+The floor breaks under you and you fall into a pit. You can't get out. Your starve to death.
+1
+
+
+	 	   ---------
+	 	   ----*----
+		   ---------
+
+
+:4
+0
+0
+21
+3
+There are paths to the east and west.
+1
+
+
+	 	   _________
+	 	   _   *_+|-
+		   -|_|-----
+
+
+Dead End:21
+0
+0
+0
+0
+It's a dead end. With no way to escape the maze, you slowly go mad and die a lonely death.
+0
+
+:5
+1
+6
+0
+0
+There are paths to the north and south.
+1
+
+
+	 	   ---| |---
+	 	   ___|*|---
+		   ___  |---
+
+
+:6
+5
+11
+0
+7
+There are paths to the west, south, and north.
+1
+
+
+	 	   ___| |---
+	 	   ___ *|---
+		   ---| |---
+
+
+:7
+0
+0
+6
+8
+It is very dark here; you can't see anything. There are paths to the east and west.
+0
+
+:8
+0
+9
+7
+0
+There are paths to the east and south.
+0
+
+:9
+8
+10
+0
+0
+You feel someone, or something watching you. There are paths to the north and south.
+0
+
+:10
+9
+0
+0
+22
+There are rocks to your west, you might be able to move them. There is also a path to the north.
+0
+
+:22
+0
+0
+0
+0
+The rock moved surprisingly easily, so easily that it decided to roll back into place. You are trapped... You see something on the ground in front of you, it is an eyeball, quite large. You engage in a staring contest that would go on until the end of time. You wish you didn't go this way.
+0
+
+:11
+6
+12
+0
+0
+There are paths to the north and south.
+1
+
+
+	 	   ___  |---
+	 	   ---|*|---
+		   ---| |---
+
+
+:12
+11
+13
+0
+0
+There are paths to the north and south.
+1
+
+
+	 	   ---| |---
+	 	   ---|*|---
+		   ---| |---
+
+
+:13
+12
+14
+28
+0
+There are paths to the north and south.
+1
+
+
+	 	   ---| |---
+	 	   ___|*|+--
+		   _____|---
+
+
+Secret:28
+0
+0
+0
+13
+YOU FOUND A SECRET ROOM! There is gold everywhere! Too bad you don't have pockets.
+1
+
+
+	 	   ---| |---
+	 	   ---| |*--
+		   ---| |---
+
+
+:14
+13
+0
+0
+15
+There are paths to the north and west.
+1
+
+
+	 	   ___| |---
+	 	   ____*|---
+		   ---------
+
+:15
+0
+0
+14
+16
+There are paths the the east and west.
+1
+
+
+	 	   _____| |-
+	 	   ____*__|-
+		   ---------
+
+
+:16
+0
+0
+15
+17
+There are paths to the east and west.
+1
+
+
+	 	   | |______
+	 	   |___*____
+		   ---------
+
+
+:17
+18
+0
+16
+0
+There are paths to the east and north.
+1
+
+
+	 	   ___  |---
+	 	   ---|*____
+		   ---------
+
+:18
+0
+0
+0
+19
+The door is closed behind you, you cannot go back. There is a path to the west.
+1
+
+
+	 	   _____
+	 	   ___ *|___
+		   ---|--___
+
+:19
+0
+0
+18
+38
+There is a light to the west. There are paths to the east and west.
+1
+
+
+	 	   _________
+	 	   ____*__  |
+		   -------|--
+
+:38
+0
+0
+19
+30
+It is getting lighter in here. There is a path to the east and west.
+1
+
+
+	 	      ______
+	 	      _*____
+		      ------
+
+End:30
+0
+0
+0
+0
+You feel the warm sun hit your face, you made it out of the maze! You live a nice life now that you are free.
+0

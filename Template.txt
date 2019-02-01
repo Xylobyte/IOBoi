@@ -1,0 +1,20 @@
+Starting position(integer)
+Ending Position(integer)
+
+you can have as many or as little tiles as you want, as long as it follows the template below:
+
+:tile to define(integer)
+where the player would go if selecting North(integer) 0 IF NOT AVAILABLE
+where the player would go if selecting South(integer) 0 IF NOT AVAILABLE
+where the player would go if selecting East(integer) 0 IF NOT AVAILABLE
+where the player would go if selecting West(integer) 0 IF NOT AVAILABLE
+Description can be as long as you want. Just make sure it stays on this line (ioboi will do new lines for you)
+Map enabled for this tile?(integer 1 or 0)
+if map enabled for this tile draw map here
+if map enabled for this tile draw map here
+if map enabled for this tile draw map here
+if map enabled for this tile draw map here
+if map enabled for this tile draw map here
+if map enabled for this tile draw map here
+
+you can have as many or as little tiles as you want, as long as it follows the template above^^^

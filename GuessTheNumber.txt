@@ -1,0 +1,106 @@
+1
+30
+
+:30
+0
+0
+0
+0
+Yes! I guessed it! Thanks for playing!
+0
+
+:1
+2
+0
+0
+0
+Pick a number between 0-10. Once you have your number continue North.
+0
+
+:2
+30
+0
+4
+3
+Is your number 5? If so, go North. If your number is higher, go East. If your number is lower, go West.
+0
+
+:3
+30
+0
+5
+6
+Is your number 3? If so, go North. If you number is higher, go East. If your number is lower, go West.
+0
+
+6:
+30
+0
+7
+8
+Is your number 1? If so, go North. If your number is higher, go East. If your number is lower, go West.
+0
+
+:7
+30
+0
+0
+0
+Is your number 2? If so, go North.
+0
+
+:8
+30
+0
+0
+0
+Is your number 0? If so, go North.
+0
+
+:5
+30
+0
+0
+0
+Is your number 4? If so, go North.
+0
+
+:4
+30
+0
+10
+9
+Is you number 8? If so, go North. If you number is higher, go East. If your number is lower, go West.
+0
+
+:9
+30
+0
+11
+0
+Is you number 6? If so, go North. If your number is higher, go East.
+0
+
+:11
+30
+0
+0
+0
+Is your number 7? If so, go North.
+0
+
+:10
+30
+0
+0
+12
+Is your number 10? If so, go North. If your number is lower, go West.
+0
+
+:12
+30
+0
+0
+0
+Is your number 9? If so, go North.
+0
